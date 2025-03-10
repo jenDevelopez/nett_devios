@@ -1,36 +1,72 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Devios - Ecommerce de Camisetas para Techies
 
-## Getting Started
+¡Bienvenido a Devios, tu tienda online de camisetas con diseños exclusivos para amantes de la tecnología!
 
-First, run the development server:
+## Descripción
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+Devios es un proyecto de ecommerce desarrollado con Next.js, enfocado en ofrecer camisetas de alta calidad con diseños originales inspirados en el mundo de la tecnología. Desde referencias a lenguajes de programación y frameworks, hasta memes y cultura geek, en Devios encontrarás la camiseta perfecta para expresar tu pasión por la tecnología.
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Características Principales
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+* **Next.js:** Aprovechando las ventajas del framework para un rendimiento óptimo y SEO amigable.
+* **Diseños Exclusivos:** Camisetas con diseños únicos y originales, creados por y para la comunidad tech.
+* **Responsive Design:** Adaptado para funcionar perfectamente en cualquier dispositivo, desde móviles hasta ordenadores de escritorio.
+* **Carrito de Compras:** Funcionalidad completa de carrito de compras para una experiencia de usuario fluida.
+* **Pasarela de Pago:** Integración con pasarelas de pago seguras para transacciones protegidas.
+* **SEO Optimizado:** Estrategias de SEO implementadas para mejorar la visibilidad en buscadores.
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## Tecnologías Utilizadas
 
-## Learn More
+* **Next.js:** Framework de React para aplicaciones web en producción.
+* **React:** Librería de JavaScript para construir interfaces de usuario.
 
-To learn more about Next.js, take a look at the following resources:
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## Instalación
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+1.  Clona el repositorio:
 
-## Deploy on Vercel
+    ```bash
+    git clone [https://github.com/cran/DELTD](https://github.com/cran/DELTD)
+    ```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+2.  Instala las dependencias:
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+    ```bash
+    npm install
+    # o
+    yarn install
+    # o
+    pnpm install
+    ```
+
+3.  Ejecuta el servidor de desarrollo:
+
+    ```bash
+    npm run dev
+    # o
+    yarn dev
+    # o
+    pnpm dev
+    ```
+
+4.  Abre tu navegador en `http://localhost:3000` para ver la aplicación.
+
+## Contribución
+
+¡Las contribuciones son bienvenidas! Si deseas contribuir a este proyecto, por favor sigue estos pasos:
+
+1.  Haz un fork del repositorio.
+2.  Crea una rama con tu feature o fix: `git checkout -b feature/mi-nueva-caracteristica` o `git checkout -b fix/mi-arreglo`.
+3.  Realiza tus cambios y commitea: `git commit -m "Añade mi nueva característica"`.
+4.  Sube tus cambios al fork: `git push origin feature/mi-nueva-caracteristica`.
+5.  Abre un Pull Request en este repositorio.
+
+## Licencia
+
+Este proyecto está bajo la licencia [Añade aquí el tipo de licencia, como MIT].
+
+## Contacto
+
+Si tienes alguna pregunta o sugerencia, no dudes en contactarme en [tu correo electrónico] o abrir un issue en este repositorio.
+
+¡Gracias por visitar Devios!
